@@ -1,6 +1,6 @@
 # Guess The Number
 
-### A C++ program that gives the user 7 attempts to guess the randomized number between 1-500.
+### A C++ program that gives the user 7 attempts to guess a randomized number between 1-500.
 
 #### Features: 
 
