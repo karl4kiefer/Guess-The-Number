@@ -12,5 +12,5 @@
 #### How to Build and Run:
 
   - Download the .cpp file and run it in a compiler OR copy the code from "GuessTheNumber.cpp" and paste it
-    into a compiler (Visual Studio, Visual Studio Code, an online compiler)
+    into a compiler (Visual Studio, Visual Studio Code, an online compiler).
     
